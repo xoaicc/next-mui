@@ -19,5 +19,4 @@ This project serves default template for Dashboard App using core React.
 - Language: `TypeScript`
 - Core library: `React.js`
 - Core framework: `Create-React-App`
-- CSS framework: `TailwindCSS`
 - UI library: `MUI`
